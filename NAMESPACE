@@ -1,0 +1,4 @@
+export(matrixInverse, Ginv, GaussianElimination, cholesky, RREF, eig, QR, SVD)
+
+importFrom(MASS, fractions)
+importFrom(stats, cor)
